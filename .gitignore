@@ -1,0 +1,8 @@
+# veri ve üretilen çıktılar repoya girmez
+veri/
+veri_ornek/
+*.csv
+*.html
+_build/
+.DS_Store
+.ipynb_checkpoints/
